@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+target/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Build files
+build/
+out/
+target/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+*.log
+
+# Launch configuration
+*.launch
+launch.json
+
+# Tasks configuration
+tasks.json
